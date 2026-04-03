@@ -1,4 +1,3 @@
-
 ---------------------------------------------------
 CAPSTONE PROJECT - ANALISI DELLE VENDITE DI CIOCCOLATA: SWEET INSIGHTS FROM DATA
 ==================================================
