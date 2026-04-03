@@ -48,4 +48,4 @@ NOTE
 ----
 Progetto a scopo analitico. Creato per identificare i trend di
 consumo e ottimizzare le strategie di vendita nel settore dolciario.
-============================================================
+------------------------------------------------------------
